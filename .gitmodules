@@ -1,9 +1,0 @@
-[submodule "LS020-SIEMENS-TFTLCD-Library"]
-	path = LS020-SIEMENS-TFTLCD-Library
-	url = http://github.com/kashapovd/LS020-SIEMENS-TFTLCD-Library
-[submodule "Motorola-LCD-ST7558-library"]
-	path = Motorola-LCD-ST7558-library
-	url = http://github.com/kashapovd/Motorola-LCD-ST7558-library
-[submodule "PCF8814-Nokia-1100-LCD-library"]
-	path = PCF8814-Nokia-1100-LCD-library
-	url = http://github.com/kashapovd/PCF8814-Nokia-1100-LCD-library
